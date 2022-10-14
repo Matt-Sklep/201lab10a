@@ -1,0 +1,10 @@
+* {
+  box-sizing: border-box;
+}
+
+.dashed-line {
+  padding: 6px;
+  background-image: url(../assets/hr-img.png);
+  background-repeat: repeat;
+  margin-bottom: 30px;
+}
